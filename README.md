@@ -77,12 +77,3 @@ The application should now be running on `http://localhost:5173` (or the next av
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sumitchauhan0/Klimate/issues).
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
